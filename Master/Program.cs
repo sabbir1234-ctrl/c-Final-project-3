@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
@@ -23,4 +20,3 @@ class Program
         aggregator.PrintResults();
     }
 }
-

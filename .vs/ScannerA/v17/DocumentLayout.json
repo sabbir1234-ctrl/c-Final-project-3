@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|solutionrelative:master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\master\\wordaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|solutionrelative:master\\wordaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\master\\pipelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|solutionrelative:master\\pipelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\master\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7DC2E-451D-43BA-8BAF-F0B1ACF10D89}|Master\\Master.csproj|solutionrelative:master\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannera\\pipesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|solutionrelative:scannera\\pipesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannerb\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|solutionrelative:scannerb\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|solutionrelative:scannera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannerb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|solutionrelative:scannerb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannerb\\fileindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|solutionrelative:scannerb\\fileindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannerb\\pipesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F5B050-FF19-4A2D-A3EA-C6A57DBF060C}|ScannerB\\ScannerB.csproj|solutionrelative:scannerb\\pipesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannera\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|solutionrelative:scannera\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannera\\scannera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|solutionrelative:scannera\\scannera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|c:\\users\\sabbi\\source\\repos\\finalproject2\\scannera\\fileindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E66CE-906D-436A-B454-E42FD7D7D2DD}|ScannerA\\ScannerA.csproj|solutionrelative:scannera\\fileindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAMkUAAAAAAAAAIAwwNsUAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-04T00:11:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\Utils.cs",
+              "RelativeDocumentMoniker": "Master\\Utils.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\Utils.cs",
+              "RelativeToolTip": "Master\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:35:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\WordAggregator.cs",
+              "RelativeDocumentMoniker": "Master\\WordAggregator.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\WordAggregator.cs",
+              "RelativeToolTip": "Master\\WordAggregator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:33:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeListener.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\PipeListener.cs",
+              "RelativeDocumentMoniker": "Master\\PipeListener.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\PipeListener.cs",
+              "RelativeToolTip": "Master\\PipeListener.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:33:22.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\Program.cs",
+              "RelativeDocumentMoniker": "Master\\Program.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\Master\\Program.cs",
+              "RelativeToolTip": "Master\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:32:54.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\Utils.cs",
+              "RelativeDocumentMoniker": "ScannerB\\Utils.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\Utils.cs",
+              "RelativeToolTip": "ScannerB\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:42:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PipeSender.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\PipeSender.cs",
+              "RelativeDocumentMoniker": "ScannerB\\PipeSender.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\PipeSender.cs",
+              "RelativeToolTip": "ScannerB\\PipeSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:42:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileIndexer.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\FileIndexer.cs",
+              "RelativeDocumentMoniker": "ScannerB\\FileIndexer.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\FileIndexer.cs",
+              "RelativeToolTip": "ScannerB\\FileIndexer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:42:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\Program.cs",
+              "RelativeDocumentMoniker": "ScannerB\\Program.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerB\\Program.cs",
+              "RelativeToolTip": "ScannerB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:37:02.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\Utils.cs",
+              "RelativeDocumentMoniker": "ScannerA\\Utils.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\Utils.cs",
+              "RelativeToolTip": "ScannerA\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:26:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PipeSender.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\PipeSender.cs",
+              "RelativeDocumentMoniker": "ScannerA\\PipeSender.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\PipeSender.cs",
+              "RelativeToolTip": "ScannerA\\PipeSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:26:02.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\Program.cs",
+              "RelativeDocumentMoniker": "ScannerA\\Program.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\Program.cs",
+              "RelativeToolTip": "ScannerA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:23:44.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScannerA.csproj",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\ScannerA.csproj",
+              "RelativeDocumentMoniker": "ScannerA\\ScannerA.csproj",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\ScannerA.csproj",
+              "RelativeToolTip": "ScannerA\\ScannerA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T21:53:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileIndexer.cs",
+              "DocumentMoniker": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\FileIndexer.cs",
+              "RelativeDocumentMoniker": "ScannerA\\FileIndexer.cs",
+              "ToolTip": "C:\\Users\\sabbi\\source\\repos\\Finalproject2\\ScannerA\\FileIndexer.cs",
+              "RelativeToolTip": "ScannerA\\FileIndexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:24:38.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
